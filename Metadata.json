@@ -1,0 +1,20 @@
+{
+    "Author": "Bhushan Gawale",
+    "ContentSize": 2483,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script-to-deploy-asp.net-web-applications-to-azure-web-app/master/PublishTo-AzureWebApp.ps1",
+    "DownloadCount": 994,
+    "Id": "PowerShell-Script-to-d9c8224a",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 183,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-5-8T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "XML",
+    "Summary": "Azure Web Apps (PaaS) is a tremendously powerful service and can be considered as one stop shop for hosting almost all types of web applications to Azure.Since the evolution of Visual Studio Team Services the CI / CD has become quite an effortless job. But what if your TFS server",
+    "Title": "PowerShell Script to Deploy ASP.NET Web Applications to Azure Web App",
+    "UpdatedDate": "2017-5-8T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script-to-deploy-asp.net-web-applications-to-azure-web-app",
+    "UserTags": "Microsoft Azure, Deployment, Windows Azure PowerShell"
+}
